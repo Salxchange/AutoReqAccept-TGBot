@@ -1,13 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 𝗥𝗘𝗡𝗔𝗠𝗘 𝗦𝗡𝗢𝗪 𝗣𝗥𝗢 𝗕𝗢𝗧
+# ADVANCE AUTO REQ ACCEPT BOT
 
-
-### Sᴀᴍᴩʟᴇ Bᴏᴛ (Official Snow Rename Bot)
-
-<p align="center">
-🤖 <a href="https://t.me/RenameSnowProBot"><img title="Telegram" src="https://img.shields.io/static/v1?label=RENAMESNOWPRO&message=BOT&color=blue-green"></a> 🤖
-</p>
 
 
 ## Deploy To Koyeb
