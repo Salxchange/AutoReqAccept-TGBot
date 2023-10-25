@@ -38,3 +38,15 @@
 * `FORCE_SUB` - Your Force Sub Channel Username Without @
 
 * `LOG_CHANNEL` - Bot Logs Sending Channel. If You Don't Need This To Remove This Variable In Your Server
+
+## Botfather Commands
+```
+start - Bot Alive Cheking
+restart - To Rrstart The Bot (Admin Only)
+status - Check Bot Status (Admin Only)
+broadcast - Send Message To All Users (Admin Only)
+setting - Config Your Setings (Admin Only)
+set_approvemsg - Set Your Approval Message (Admin Only)
+set_leavemsg - Set Your Leaving Message (Admin Only)
+
+```
